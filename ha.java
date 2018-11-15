@@ -16,10 +16,10 @@ public class ha {
 
 	public static int fakul(int n ) {
 
-		int ergebniss = 1 ;
+		int Ergebniss = 1 ;
 		int i = 1 ;
 		while (i<=n) {
-			ergebniss = ergebniss * i;
+			Ergebniss = Ergebniss * i;
 			i++ ;
 			
 		}
