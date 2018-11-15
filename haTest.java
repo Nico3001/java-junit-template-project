@@ -12,7 +12,7 @@ class haTest {
 	void test() {
 		ha test = new ha();
 		
-		double f = test.fakul(3);
+		double n = test.fakul(3);
 		
 		assertEquals(6,n);
 
